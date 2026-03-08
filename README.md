@@ -1,7 +1,7 @@
 # Hey, I'm Hassan 👋
 
-  I'm a software developer who enjoys building tools that solve real problems.
-  Currently focused on **web development** and **automation**.
+  I'm a student who enjoys building tools that solve real problems.
+  Currently focused on **software development** and **automation**.
 
   ---
 
